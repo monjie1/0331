@@ -1,0 +1,46 @@
+@charset "utf-8";
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container header h1 {
+    text-align: center;
+    color: #EFBC4E;
+    font-size: 50px;
+}
+.container header nav {
+    text-align: center;
+}
+nav a:link  {
+    color: #A6E7DE;
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}
+nav  a:hover {
+    color: #F1C3E0;
+    font-size: x-large;
+}
+.container header .heroimg {
+    color: #936DB0;
+    height: 250px;
+    background-position: 2px -102px;
+    background-image: url(%E9%A3%B2%E9%A3%9F/Zoo-de-Granby_Header_1920x1280_-Chameau-de-Bactriane.jpg);
+    border-radius: 61px;
+    background-size: 1000px auto;
+}
+article h2  {
+    background-color: #A7B5A7;
+    border-radius: 20px 20px 20px 17px;
+    color: #FBFBFB;
+    text-align: center;
+    font-size: 17px;
+    height: auto;
+    text-decoration: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    padding-left: 6px;
+
+}
